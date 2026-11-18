@@ -79,6 +79,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 Output
 # OUTPUT
 
+<img width="1896" height="843" alt="digital electronics exp2" src="https://github.com/user-attachments/assets/4912f8c0-7dc8-4a34-9480-a8f92af64e8f" />
 
  
 # Viva-Voce Questions
